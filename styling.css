@@ -1,0 +1,16 @@
+h1 {
+  color: lightskyblue;
+
+  background-color: blue;
+}
+/* (.) is used at the beginning for class */
+.paragraph-one {
+  color: indigo;
+}
+.paragraph-two {
+  background-color: yellow;
+  color: orange;
+}
+.paragraph-third {
+  background-color: darkseagreen;
+}
